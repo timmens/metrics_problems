@@ -7,7 +7,7 @@
 
 - [Software Requirements](#software-requirements)
 - [How to Contribute](#how-to-contribute)
-- [Problem Set 1](#hand-out-4)
+- [Handout 4](#handout-4)
 
 ## Software Requirements
 
@@ -34,7 +34,7 @@ the repository webpage you create a pull request for that feature branch. Once y
 happy with your solution you ask for a code review and we will then merge the feature
 branch onto main. For any questions on this process contact [timmens](https://github.com/timmens).
 
-## Hand Out 4
+## Handout 4
 
 <a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb"
    target="_parent">
