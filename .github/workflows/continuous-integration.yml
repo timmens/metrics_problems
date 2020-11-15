@@ -1,0 +1,33 @@
+# Continuous Integration
+
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # checks-out metrics repository
+      - uses: actions/checkout@v2
+      
+      # install miniconda and environment
+      - uses: conda-incubator/setup-miniconda@v2
+        with:
+          miniconda-version: "latest"
+          environment-file: environment.yml
+          activate-environment: metrics
+
+      - name: Run Notebooks
+        shell: bash -l {0}
+        run: |
+          for f in *.ipynb; do echo "$f"; done
+          for f in *.ipynb; do jupyter nbconvert --to notebook --execute "$f"; done
