@@ -8,7 +8,9 @@
 
 - [Software Requirements](#software-requirements)
 - [How to Contribute](#how-to-contribute)
+- [Solutions](#solutions)
 - [Handout 4](#handout-4)
+- [Handout 5](#handout-5)
 
 ## Software Requirements
 
@@ -35,7 +37,14 @@ the repository webpage you create a pull request for that feature branch. Once y
 happy with your solution you ask for a code review and we will then merge the feature
 branch onto main. For any questions on this process contact [timmens](https://github.com/timmens).
 
-## Handout 4
+## Solutions
+
+Solutions to the computation exercises are found in the following notebooks. To view
+these notebooks simply press the ``render notebook`` button. If you like to play around
+with these notebooks online simply press the ``launch binder`` button (note that the
+building process can take a few minutes).
+
+### Handout 4
 
 <a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb"
    target="_parent">
@@ -46,12 +55,17 @@ branch onto main. For any questions on this process contact [timmens](https://gi
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout4.ipynb)
 
+### Handout 5
 
-The solution to the computation exercises in the fourth hand out can be found in the
-notebook ``handout4.ipynb``. You can view it [here](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb)
-and you can play around with it online (that is, without having to install all the
-packages on your local machine) [here](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout4.ipynb);
-note that building the notebook can take a while (up to 5 minutes or so).
+<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb"
+   target="_parent">
+   <img align="center" 
+  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout5.ipynb)
+
 
 [contributors-badge]: https://img.shields.io/github/contributors/timmens/metrics_problems
 [contributors-url]: https://github.com/timmens/metrics_problems/graphs/contributors
