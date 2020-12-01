@@ -11,6 +11,7 @@
 - [Solutions](#solutions)
 - [Handout 4](#handout-4)
 - [Handout 5](#handout-5)
+- [Handout 6](#handout-6)
 
 ## Software Requirements
 
@@ -65,6 +66,17 @@ building process can take a few minutes).
 </a>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout5.ipynb)
+
+### Handout 6
+
+<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb"
+   target="_parent">
+   <img align="center" 
+  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout6.ipynb)
 
 
 [contributors-badge]: https://img.shields.io/github/contributors/timmens/metrics_problems
