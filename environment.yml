@@ -12,7 +12,7 @@ dependencies:
   - nb_conda_kernels
 
   - pandas
-  - xlrd
+  - xlrd=1.2.0
   - numpy
   - matplotlib
   - seaborn
