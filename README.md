@@ -47,7 +47,7 @@ building process can take a few minutes).
 
 ### Handout 4
 
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb"
+<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb?flush_cache=True"
    target="_parent">
    <img align="center" 
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
@@ -58,7 +58,7 @@ building process can take a few minutes).
 
 ### Handout 5
 
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb"
+<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb?flush_cache=True"
    target="_parent">
    <img align="center" 
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
@@ -69,7 +69,7 @@ building process can take a few minutes).
 
 ### Handout 6
 
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb"
+<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb?flush_cache=True"
    target="_parent">
    <img align="center" 
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
