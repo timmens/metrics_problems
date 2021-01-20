@@ -9,9 +9,6 @@
 - [Software Requirements](#software-requirements)
 - [How to Contribute](#how-to-contribute)
 - [Solutions](#solutions)
-- [Handout 4](#handout-4)
-- [Handout 5](#handout-5)
-- [Handout 6](#handout-6)
 
 ## Software Requirements
 
@@ -45,40 +42,15 @@ these notebooks simply press the ``render notebook`` button. If you like to play
 with these notebooks online simply press the ``launch binder`` button (note that the
 building process can take a few minutes).
 
-### Handout 4
+| Problem Set | binder | nbviewer |
+| ------------------| -- | -- |
+| 1 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout4.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb?flush_cache=True )
+| 2 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout5.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb?flush_cache=True )
+| 3 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout6.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb?flush_cache=True )
+| Final Winter'19 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=final_winter_2019.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/final_winter_2019.ipynb?flush_cache=True )
 
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout4.ipynb?flush_cache=True"
-   target="_parent">
-   <img align="center" 
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
-      width="109" height="20">
-</a>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout4.ipynb)
-
-### Handout 5
-
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb?flush_cache=True"
-   target="_parent">
-   <img align="center" 
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
-      width="109" height="20">
-</a>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout5.ipynb)
-
-### Handout 6
-
-<a href="https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb?flush_cache=True"
-   target="_parent">
-   <img align="center" 
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
-      width="109" height="20">
-</a>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout6.ipynb)
-
-
+[nbviewer-badge]:https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png
+[binder-badge]:https://mybinder.org/badge_logo.svg
 [contributors-badge]: https://img.shields.io/github/contributors/timmens/metrics_problems
 [contributors-url]: https://github.com/timmens/metrics_problems/graphs/contributors
 [black-badge]:https://img.shields.io/badge/code%20style-black-000000.svg
