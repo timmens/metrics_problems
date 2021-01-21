@@ -6,34 +6,9 @@
 
 ## Contents
 
-- [Software Requirements](#software-requirements)
-- [How to Contribute](#how-to-contribute)
 - [Solutions](#solutions)
-
-## Software Requirements
-
-If you want to run the notebooks on your local machine you need to install all packages
-that are listed in the file ``environment.yml``. This works easiest when using the
-[conda package manager](https://docs.conda.io/en/latest/) (or [mamba](https://github.com/mamba-org/mamba)
-if you know what you're doing). Assuming you installed conda you simply open your
-favorite terminal emulator and run (line by line)
-
-```zsh
-$ conda env create -f environment.yml
-$ conda activate metrics
-```
-
-Now you should be able to start and execute the notebooks from inside the terminal
-session.
-
-## How to Contribute
-
-You can contribute to this repository by uploading alternative solutions, corrected
-mistakes or solutions to new exercises. Feel free to do so using the pull request
-strategy. That is, after cloning the repository you create a feature branch and then on
-the repository webpage you create a pull request for that feature branch. Once you are
-happy with your solution you ask for a code review and we will then merge the feature
-branch onto main. For any questions on this process contact [timmens](https://github.com/timmens).
+- [How to Contribute](#how-to-contribute)
+- [Run Notebooks Locally](#run-notebooks-locally)
 
 ## Solutions
 
@@ -48,6 +23,31 @@ building process can take a few minutes).
 | Handout 5 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout5.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout5.ipynb?flush_cache=True )
 | Handout 6 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout6.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout6.ipynb?flush_cache=True )
 | Final Winter'19 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=final_winter_2019.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/final_winter_2019.ipynb?flush_cache=True )
+
+## How to Contribute
+
+You can contribute to this repository by uploading alternative solutions, corrected
+mistakes or solutions to new exercises. Feel free to do so using the pull request
+strategy. That is, after cloning the repository you create a feature branch and then on
+the repository webpage you create a pull request for that feature branch. Once you are
+happy with your solution you ask for a code review and we will then merge the feature
+branch onto main. For any questions on this process contact [timmens](https://github.com/timmens).
+
+## Run Notebooks Locally
+
+If you want to run the notebooks on your local machine you need to install all packages
+that are listed in the file ``environment.yml``. This works easiest when using the
+[conda package manager](https://docs.conda.io/en/latest/) (or [mamba](https://github.com/mamba-org/mamba)
+if you know what you're doing). Assuming you installed conda you simply open your
+favorite terminal emulator and run (line by line)
+
+```zsh
+$ conda env create -f environment.yml
+$ conda activate metrics
+```
+
+Now you should be able to start and execute the notebooks from inside the terminal
+session.
 
 [nbviewer-badge]:https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png
 [binder-badge]:https://mybinder.org/badge_logo.svg
