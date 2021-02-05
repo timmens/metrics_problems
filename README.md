@@ -26,6 +26,7 @@ building process can take a few minutes).
 | Hansen | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=hansen.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/hansen.ipynb?flush_cache=True )
 | ARCH Likelihood | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=arch_likelihood.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/arch_likelihood.ipynb?flush_cache=True )
 | Ellipse | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=ellipse.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/ellipse.ipynb?flush_cache=True )
+| Local Alternatives | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=local_alternatives.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/local_alternatives.ipynb?flush_cache=True )
 
 ## How to Contribute
 
