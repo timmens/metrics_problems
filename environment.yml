@@ -3,6 +3,7 @@ name: metrics
 channels:
   - defaults
   - conda-forge
+  - anaconda
 
 dependencies:
   - python=3.7
@@ -18,7 +19,7 @@ dependencies:
   - seaborn
   - numba
 
-  - pyreadstat
+  - openpyxl
 
   - black
   - flake8
