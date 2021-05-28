@@ -23,6 +23,7 @@ building process can take a few minutes).
 |          | binder | nbviewer |
 | ------------------| -- | -- |
 | Handout 1 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout1.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout1.ipynb?flush_cache=True )
+| Handout 2 | [![Binder][binder-badge]](https://mybinder.org/v2/gh/timmens/metrics_problems/main?filepath=handout2.ipynb) |  [<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"  width="109" height="20">](https://nbviewer.jupyter.org/github/timmens/metrics_problems/blob/main/handout2.ipynb?flush_cache=True )
 
 ## How to Contribute
 
